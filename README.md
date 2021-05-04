@@ -1,23 +1,23 @@
 # E-Commerce-App-
- Feature 1: Login 
+ Feature 1:  Login --
      Test case included.
 
-Feature 2: New User Registration
+Feature 2:  New User Registration--
      Test case included.
 
-Feature 3: Payment Card Validation
+Feature 3: Payment Card Validation--
      Test case included.
 
-Feature 4: Price Estimator
+Feature 4: Price Estimator--
      Test case included.
  
- Feature 5: Gst Calculation
+ Feature 5: Gst Calculation--
      Test case included. 
  
- Feature 6: product display
+ Feature 6: product display--
      Test case included.
  
- Feature 7: product adding
+ Feature 7: product adding--
      Test case included. 
      
      
